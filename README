@@ -1,1 +1,9 @@
-# silly code, learning async calls
+Requirements:
+    node 9.x
+    ENV variable with 0x ETH Wallet address.
+    
+Example:
+    $ export ETH_WALLET=0x000000000000000000"
+    $ ./app.js
+    
+    
