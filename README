@@ -3,7 +3,7 @@ Requirements:
     ENV variable with 0x ETH Wallet address.
     
 Example:
-    $ export ETH_WALLET=0x000000000000000000"
+    $ export ETH_WALLET="0x1cdef4000000000000000000"
     $ ./app.js
     
     
